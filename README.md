@@ -15,7 +15,7 @@ See `CONTRIBUTING.md` for ways to get started.
 
 [Name of the project] is a <a href="http://github.com/angolasc">Angola Open-source Community</a> open project.
 
-![Angola Open-source Community ><](./assets/aosc.png)
+![Angola Open-source Community](https://raw.githubusercontent.com/angolaosc/.github/main/logo/aosc.png)
 
 ## Code of Conduct(CoC)
 
